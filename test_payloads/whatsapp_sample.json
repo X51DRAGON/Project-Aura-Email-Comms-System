@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "profile": {
+        "name": "Alice"
+      }
+    }
+  ],
+  "messages": [
+    {
+      "from": "+1234567890",
+      "id": "wamid.HBgM",
+      "timestamp": "1700000000",
+      "text": {
+        "body": "Hello, this is a test WhatsApp message to the agent."
+      }
+    }
+  ]
+}

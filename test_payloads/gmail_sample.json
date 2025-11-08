@@ -1,0 +1,8 @@
+{
+  "From": "bob@example.com",
+  "Subject": "Test message",
+  "snippet": "Hi, this is a short snippet of the email body.",
+  "id": "1234567890abcdef",
+  "threadId": "thread-1234",
+  "internalDate": "1700000000000"
+}
